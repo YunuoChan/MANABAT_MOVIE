@@ -1,0 +1,1 @@
+var ALLMOVIE_API = 'https://pelec4.herokuapp.com/movies';
